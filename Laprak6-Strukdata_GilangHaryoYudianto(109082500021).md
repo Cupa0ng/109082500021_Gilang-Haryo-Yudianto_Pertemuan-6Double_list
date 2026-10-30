@@ -1,4 +1,4 @@
-# <h1 align="center">Modul 5 SINGLY LINKED LIST (BAGIAN KEDUA) </h1>
+# <h1 align="center">Modul 6 DOUBLY LINKED LIST (BAGIAN PERTAMA)</h1>
 <p align="center">Gilang Haryo Yudianto- 109082500021</p>
 
 ### A. Konsep Dasar Double Linked List
